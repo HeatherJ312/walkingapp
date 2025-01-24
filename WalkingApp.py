@@ -1,8 +1,25 @@
 route=[
-    {'town':'Lands End', 'distance':0},
-    {'town':'Bristol', 'distance':1000},
-    {'town':'Bath', 'distance':20000},
-    {'town':'Place', 'distance':300000}
+    {'town':'Lands End', 'distance':0, 'km':0},
+    {'town':'Penzance', 'distance':21250, 'km':17},
+    {'town':'Redruth', 'distance':58250, 'km':47},
+    {'town':'Indian Queens', 'distance':99750, 'km':80}, 
+    {'town':'Bodmin Moor', 'distance':142125, 'km':114},
+    {'town':'Stowford', 'distance':179125, 'km':143},
+    {'town':'North Tawton', 'distance':218625, 'km':175}, 
+    {'town':'Tiverton', 'distance':261250, 'km':209},
+    {'town':'Taunton', 'distance':300625, 'km':241},
+    {'town':'Sedgemoor', 'distance':345375, 'km':276}, 
+    {'town':'Bristol', 'distance':389125, 'km':311},
+    {'town':'Newport', 'distance':431375, 'km':354},
+    {'town':'Norton', 'distance':474625, 'km':380},
+    {'town':'Worcester', 'distance':512750, 'km':410},
+    {'town':'Kinver', 'distance':550125, 'km':440},
+    {'town':'Brewood', 'distance':587500, 'km':470},
+    {'town':'Market Drayton', 'distance':632000, 'km':506},
+    {'town':'Church Minshull', 'distance':670000, 'km':536}, 
+    {'town':'Warrington', 'distance':708750, 'km':567},
+    {'town':'Chorley', 'distance':750625, 'km':601},
+    {'town':'Garstang', 'distance':790000, 'km':632}
 ]
 
 total_steps=0
